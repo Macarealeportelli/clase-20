@@ -23,6 +23,7 @@ header {
     background-color:pink;
     
     display: flex;
+    align-items: flex-start;
 }
 
 aside {
@@ -60,7 +61,7 @@ aside>div{
 .contenedor-tarjetas{
     background-color:blue;
     margin: 10px;
-    height: 1000px;
+  
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
