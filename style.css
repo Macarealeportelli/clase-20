@@ -43,6 +43,15 @@ aside>div{
 
 }
 
+.far-fa-star{
+    color: yellow;
+}
+
+.fas-fa-star{
+  color: yellow;
+}
+
+
 .seccion-tarjetas{
     background-color:yellow;
     margin: 10px;
